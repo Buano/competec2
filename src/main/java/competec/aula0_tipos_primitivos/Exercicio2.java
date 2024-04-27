@@ -9,7 +9,9 @@ package competec.aula0_tipos_primitivos;
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
-        
+        int laranja = 15;
+        int uva = 80;
+        int soma = laranja + uva;
+        System.out.println(soma);       
     }
 }

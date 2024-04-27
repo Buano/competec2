@@ -9,7 +9,8 @@ package competec.aula0_tipos_primitivos;
 public class Exercicio1 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
-
+        char primeira_letra = 'T';
+        int idade = 15;
+        boolean cafe_da_manha = false;
     }
 }

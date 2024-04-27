@@ -6,7 +6,13 @@ package competec.aula1_ramificacoes;
 public class Exercicio3 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
-
+        boolean chovendo = true; 
+        boolean relampejando = false;
+        boolean comparacao = chovendo && relampejando;
+        System.out.println(comparacao); 
+        boolean macarrão = true; 
+        boolean estrogonofe = false;
+        boolean comparacao2 = macarrão || estrogonofe;
+        System.out.println(comparacao2);
     }
 }

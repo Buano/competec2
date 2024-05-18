@@ -17,6 +17,6 @@ public class Desafio0 {
 		else{
 			System.out.println("Esse numero é impar");
 		}
-		// imprima o resultado da operação (se o número digitado é par ou ímpar).
+		// imprima o resultado da operação (se o número digitado é par ou ímpar).	
 	}
 }

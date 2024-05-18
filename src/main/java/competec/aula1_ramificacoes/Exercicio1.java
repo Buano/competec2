@@ -24,7 +24,7 @@ public class Exercicio1 {
         float maçã = 2.00f;
         float pêra = 3.00f;
         float soma = (abacaxi*abacaxi1)+(maçã*maçã1)+(pêra*pêra1);
-        System.out.println("O valor da compra é de"+soma "reais");  
+        System.out.println("O valor da compra é de"+soma);  
 
         char preco_frutas = 'd';
         switch (preco_frutas) {
